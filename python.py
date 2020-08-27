@@ -1,3 +1,4 @@
+#Developed by Kushel Reddy
 # fortune.py -- chooses a random fortune, as the fortune(8) program in
 #               the BSD-games package does
 #
